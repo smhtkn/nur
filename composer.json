@@ -14,8 +14,8 @@
         }
     ],
     "require": {
-        "php": ">=7.1",
-        "izniburak/nur-core": "^1"
+        "php": ">=5.6.4",
+        "izniburak/nur-core": "php56-dev"
     },
     "autoload": {
         "psr-4": {
